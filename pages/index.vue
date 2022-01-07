@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        nuxt-express
+        nuxt-express-edit
       </h1>
       <div>
         {{ test }}
